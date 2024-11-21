@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react'
-import { ImGit } from 'react-icons/im';
+
 
 interface propsType {
     title: string;

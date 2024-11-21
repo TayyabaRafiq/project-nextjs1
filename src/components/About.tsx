@@ -22,7 +22,7 @@ const About = () => {
         
       </h1>
       <p className="mb-5 leading-relaxed">
-        My name is Tayyaba,I hold a Master's degree in Physiology from Karachi University and is currently expanding their skill set by enrolling in GIAIC to develop expertise as a developer.This blend of academic achievement and acommitment to learning highlights their versatile and forward-thinking approach to personal and professional growth.
+        My name is Tayyaba,I hold a Master degree in Physiology from Karachi University and is currently expanding their skill set by enrolling in GIAIC to develop expertise as a developer.This blend of academic achievement and acommitment to learning highlights their versatile and forward-thinking approach to personal and professional growth.
       </p>
       <div className="flex justify-center">
         <Link href={"/cv.pdf"}>

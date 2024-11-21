@@ -45,7 +45,7 @@ const Hero = () => {
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
             <Image className="object-cover object-center rounded mx-auto w-[15rem]"
-            src= {require("../../public/assets/hero.jpg")}
+            src= {"/assets/hero.jpg"}
              alt="hero"
             width={500}
             height={500}
